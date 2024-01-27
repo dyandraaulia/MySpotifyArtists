@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MySpotifyArtists</string>
+    <string name="search_artist">Write artists name</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_profile">Profile</string>
+    <string name="my_image"><![CDATA[https://instagram.fsub8-1.fna.fbcdn.net/v/t51.2885-19/414208275_205391265976035_8616985249431776866_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fsub8-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=4tsFN5kC9P0AX82wKUO&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCjox1JLF-99vkqJCWMES2EJemBL-Vqyj5dx3Ol_6T3cw&oe=65BA5C1C&_nc_sid=8b3546]]></string>
+    <string name="cd_profile_image">Dyandra\'s image</string>
+    <string name="self_introduction">Hi, There!\nI\'m Dyandra Aulia</string>
+    <string name="experience">3rd year student of Computer Science \nat Universitas Gadjah Mada</string>
+    <string name="email">dyandraaulia157@gmail.com</string>
+    <string name="back">back to previous page</string>
+    <string name="add_to_favorite">add to favorite</string>
+    <string name="monthly_listeners">%1$s monthly listeners</string>
+    <string name="empty_favorite">You haven\'t added the Favorite Artist Items</string>
+</resources>
